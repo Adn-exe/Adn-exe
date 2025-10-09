@@ -10,6 +10,8 @@ I believe in writing code that’s not only functional but expressive — system
 
 Languages: Python, HTML, CSS, JavaScript
 
+Frameworks: Flask, Pygame
+
 Areas of Interest: Web development, game design, interactive storytelling, psychology-inspired systems
 
 🚀 Current Projects
