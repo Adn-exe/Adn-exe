@@ -18,7 +18,7 @@ Xtventure: A text-based RPG exploring morality, myth, and fate — built in Pyth
 
 Flask Projects: Secure and modular web applications with login, posting, and data-driven features designed for real-world deployment.
 
-> _“I don’t just write code. I tell stories with it.”_ 🖋️💻  
+> _“I don’t chase the spotlight — I build the stage.”_ 🖋️💻  
 
 <!---
 Adn-exe/Adn-exe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
