@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Adnan%20✦%20PhonoFlow&width=900&height=200" />
+</p>
+
+
 ## 💼 About Me  
 I’m **Adnan** — a developer who blends technical clarity with a sense of narrative and purpose.  
 I enjoy creating systems that feel **coherent, expressive, and thoughtfully built** — where structure and creativity work together instead of competing.  
@@ -9,6 +14,7 @@ Whether it’s a data-driven application or a generative model, I focus on solut
 
 ## 🧠 Interests & Skills  
 **Languages:** Python, JavaScript, HTML, CSS, R, C, SQL
+
 **Core Focus Areas:**  
 - Web Development & System Design  
 - Machine Learning (especially probabilistic + generative models)  
