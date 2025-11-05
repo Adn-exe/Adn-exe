@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text=Adnan%20•%20Intentional%20Systems&width=900&height=200" />
-</p>
-
-
-
 ## 💼 About Me  
 I’m **Adnan** — a developer who blends technical clarity with a sense of narrative and purpose.  
 I enjoy creating systems that feel **coherent, expressive, and thoughtfully built** — where structure and creativity work together instead of competing.  
