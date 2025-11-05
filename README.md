@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text=Adnan%20%7C%20Quiet%20Craft%20&width=900&height=200" />
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&text=Adnan%20•%20Intentional%20Systems&width=900&height=200" />
 </p>
+
 
 
 ## 💼 About Me  
