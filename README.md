@@ -1,30 +1,27 @@
 ## 💼 About Me  
-I’m **Adnan** — a developer and storyteller passionate about transforming ideas into meaningful digital experiences.  
-My focus lies in building **clean, scalable, and intuitive applications** — where structure meets creativity.  
+I’m **Adnan** — a developer who blends technical clarity with a sense of narrative and purpose.  
+I enjoy creating systems that feel **coherent, expressive, and thoughtfully built** — where structure and creativity work together instead of competing.  
 
-I love exploring how **narrative thinking and logic** complement each other — whether it’s crafting a purpose-driven **Flask web app** or developing **Xtventure**, a choice-driven fantasy adventure built in Python.  
-
-I believe in writing code that’s not only functional but expressive — **systems that feel alive, coherent, and built with intent**.  
-Beyond syntax and structure, I value clarity, purpose, and the quiet craft behind great work.  
+I’m particularly interested in how **design, behavior, and computation** shape the way we interact with digital environments.  
+Whether it’s a data-driven application or a generative model, I focus on solutions that are **clean, readable, and meaningful in their intent**.
 
 ---
 
-## 🧠 Skills  
-**Languages:** Python, HTML, CSS, JavaScript  
-**Areas of Interest:** Web development, game design, interactive storytelling, psychology-inspired systems  
+## 🧠 Interests & Skills  
+**Languages:** Python, JavaScript, HTML, CSS, R, C, SQL
+**Core Focus Areas:**  
+- Web Development & System Design  
+- Machine Learning (especially probabilistic + generative models)  
+- User experience thinking & interaction flow  
+- Narrative systems and subtle psychological design  
 
 ---
 
-## 🚀 Current Projects  
-- **Xtventure** — A text-based RPG exploring morality, myth, and fate, built in Python with dynamic gameplay systems and branching choices.  
-- **Flask Projects** — Secure, modular web applications featuring login systems, posting capabilities, and data-driven design for real-world use.  
+## 🚀 Current Work  
+- **SoulNest** — A platform centered on emotional awareness and shared reflection.  
+  Exploring how **design + psychology + technology** can create spaces that feel **quiet, warm, and human**.  
+- **ML Experiments** — Working with **lightweight generative models**, phonetic shaping, and expressive data-driven outputs (like *PhonoFlow*).
 
 ---
 
-> “I don’t chase the spotlight — I build the stage.” 🖋️💻  
-
-
-<!---
-Adn-exe/Adn-exe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> *I don’t look for stage — I build environments that speak for themselves.*  
