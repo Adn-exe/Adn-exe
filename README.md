@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Adnan%20✦%20PhonoFlow&width=900&height=200" />
+  <img src="https://svg-banners.vercel.app/api?type=origin&text=Adnan%20%7C%20Quiet%20Craft%20&width=900&height=200" />
 </p>
 
 
