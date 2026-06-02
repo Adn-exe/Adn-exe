@@ -1,6 +1,8 @@
 # Adnan 👋
 
-txt Building systems that make sense. 
+```txt
+Building systems that make sense.
+```
 
 I’m a developer who enjoys turning ideas into structured, usable systems.
 
@@ -24,13 +26,19 @@ in architecture, in logic, and in user experience.
 ## ⚙️ Tech Stack
 
 ### Languages
-python Python • JavaScript • C • SQL • R 
+```python
+Python • JavaScript • C • SQL • R
+```
 
 ### Web & Tools
-python HTML • CSS • Flask • Git • MySQL • MongoDB 
+```python
+HTML • CSS • Flask • Git • MySQL • MongoDB
+```
 
 ### Interests
-python System Design • ML Engineering • Backend Development • Human-Centered Software 
+```python
+System Design • ML Engineering • Backend Development • Human-Centered Software
+```
 
 ---
 
@@ -81,4 +89,8 @@ whether in software, design, or people.
 
 ---
 
-txt Still learning. Still building. Still figuring things out one system at a time. 
+```txt
+Still learning.
+Still building.
+Still figuring things out one system at a time.
+```
