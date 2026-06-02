@@ -27,7 +27,7 @@ in architecture, in logic, and in user experience.
 
 ### Languages
 ```python
-Python • JavaScript • C • SQL • R
+Python • C • Julia • Java • SQL • R
 ```
 
 ### Web & Tools
